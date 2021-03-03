@@ -1,0 +1,15 @@
+{
+  "name": "pixelform-docs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/erstefan/pixelform-docs.git",
+  "author": "Stefan Rusu <erstefan13@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.8.2"
+  },
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  }
+}
